@@ -20,4 +20,4 @@ Insight: While Health & Beauty leads total sales contribution at 30.03%, items l
 Impact: Heavy/bulky categories (like Bed & Bath) are eating into profit margins through shipping costs. Olist should optimize shipping partnerships or adjust shipping subsidies for bulky categories to protect the bottom line.
 
 Screenshot:
-Dashboard Preview: 
+Dashboard Preview: (https://github.com/SakshiDA13/Ecommerce--Olist-Store-Analysis/blob/main/Snapshot%20Ecommerce%20Dashboard)
